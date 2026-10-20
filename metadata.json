@@ -1,0 +1,6 @@
+{
+  "name": "Consarc Home Services — Job Completion & Disputes",
+  "description": "Interactive prototype for home services job completion, offline queues, partial dispute holds, and evidence-based dispute resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
